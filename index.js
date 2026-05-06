@@ -1,10 +1,10 @@
 //Write your code here
 const attendee = {
-  attendeeID: "T001",
+  attendeeId: "T001",
   name: "Alice Smith",
   event: "JavaScript Conference",
   ticketType: "VIP",
-  ticketPrice: 150
+  ticketPrice: 150.00
 };
 
 function logAttendeeName(attendee) {

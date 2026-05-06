@@ -4,7 +4,7 @@ const attendee = {
   name: "Alice Smith",
   event: "JavaScript Conference",
   ticketType: "VIP",
-  ticketPrice: 150.00
+  ticketPrice: 150
 };
 
 function logAttendeeName(attendee) {
